@@ -1,5 +1,5 @@
 # Performing Exploratory Data analysis and finding bestscore using best model 
-There is no much difference in model performance after dealing with outliers, The performance can be incresed by tuning and so far the best fit model is Gradient boosting and adaboost model 91.09816298454317 % and 91.42242724844785 %
+There is no much difference in model performance after dealing with outliers, The performance can be incresed by tuning and so far the best fit model is Gradient boosting and adaboost model 91.09816298454317 % and 91.42242724844785 %      
 Understanding the dataset
 Problem statement: We have data from a Portuguese bank on details of customers related to selling a term deposit The objective of the project is to help the marketing team identify potential customers who are relatively more likely to subscribe to the term deposit and this increase the hit ratio
 
